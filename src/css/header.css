@@ -1,0 +1,179 @@
+@charset "UTF-8";
+
+.kurly-header {
+  width: 100%;
+  /* border-bottom: 1px solid #eee; */
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* 공통 */
+.inner {
+  width: 1050px;
+  margin: 0 auto;
+}
+
+/* 1.  상단 */
+.header-top {
+  font-size: 12px;
+  color: #666;
+ 
+}
+.header-top .inner {
+  position: relative;
+  height: 35px;
+
+  /* padding: 6px 0; */
+}
+.util-menu {
+  position: absolute;
+  line-height: 35px;
+  right: 0;
+  display: flex;
+  gap: 12px;
+}
+.util-menu li {
+  cursor: pointer;
+}
+.util-menu li.active {
+  color: #5f0080;
+}
+
+/* 2. 중단 */
+.header-middle {
+  
+  height: 64px;
+  padding: 9px 0;
+ 
+  
+}
+
+.middle-flex {
+  display: flex;
+  
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.logo-area {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+
+
+.service-tab {
+  display: flex;
+  /* gap: 4px; */
+  font-size: 18px;
+  font-weight: 500;
+}
+
+/* 서비스 탭 */
+.service-tab li {
+  padding: 6px 6px;
+  border-radius: 14px;
+  cursor: pointer;
+  color: #b5b5b5;
+}
+
+.service-tab li.active {
+  
+  color:#5f0080;
+  /* color: #fff; */
+  /* font-weight: bold; */
+}
+
+/* 검색 */
+.search-form {
+  display: flex;
+  width: 400px;
+  height: 48px;
+  border: 1px solid #5f0080;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.search-form input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  outline: none;
+}
+
+.search-form button {
+  width: 48px;
+  background: #fff;
+  /* color: #5f0080; */
+  border: none;
+  cursor: pointer;
+}
+
+/* 아이콘 */
+.header-icons img {
+  /* font-size: 26px; */
+  width: 26px;
+  height: 26px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+.header-icons {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+
+/* 3. GNB */
+.header-bottm{
+  width: 100vw;
+  height: 56px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 3px 4px 0px;
+}
+.header-bottm .inner {
+  display: flex;
+  padding: 8px;
+  
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 500;
+  color: #333;
+}
+.category i{
+  font-size: 20px;
+}
+.gnb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 650px;
+  gap: 24px;
+  height: 44px;
+  font-size: 15px;
+  
+  /* border: 1px solid #333; */
+}
+
+.category {
+  /* border: 1px solid #333; */
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* 배송 안내 배지 */
+.delivery-guide {
+  font-size: 13px;
+  padding: 8px 14px;
+  border: 1px solid  rgb(238, 238, 238);
+  border-radius: 18px;
+  color: #666;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.delivery-guide .purple {
+  color: #5f0080;
+ 
+}

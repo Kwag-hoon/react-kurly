@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+.kurly-footer {
+  font-size: 14px;
+  color: #333;
+  border-top: 1px solid #eee;
+}
+
+.inner {
+  width: 1050px;
+  margin: 0 auto;
+}
+
+/* TOP */
+.footer-top {
+  padding: 40px 0;
+}
+
+.footer-top-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cs-area {
+  width: 350px;
+  
+}
+.cs-area h3{
+  font-size: 20px;
+  font-weight: 500;
+}
+.cs-contact{
+  padding: 20px 0;
+}
+.cs-phone {
+  font-size: 28px;
+  font-weight: 600;
+  color: #333;
+  margin-right: 8px;
+  margin-bottom: 20px;
+}
+.cs-time{
+  font-size: 16px;
+
+}
+.cs-btns button {
+  display: block;
+  width: 140px;
+  height: 40px;
+  margin: 0 16px 16px 0;
+  padding: 8px;
+  background: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+  cursor: pointer;
+}
+.cs-info{
+  font-size: 12px;
+  color: #999;
+}
+.company-area {
+  width: 620px;
+}
+
+.company-menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 18px;
+  margin-bottom: 29px;
+}
+
+.company-menu .bold {
+  font-weight: 500;
+}
+
+.company-info {
+  font-size: 12px;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 40px;
+}
+.company-info .recru{
+  color: #5f0080;
+}
+.sns {
+  display: flex;
+  gap: 12px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.sns img {
+  width: 30px;
+  height: 30px;
+  display: block;
+}
+
+/* CERT */
+.footer-cert {
+  border-top: 1px solid #eee;
+  padding: 24px 0;
+  font-size: 12px;
+  color: #666;
+}
+
+.cert-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* BOTTOM */
+.footer-bottom {
+  background: #f7f7f7;
+  padding: 20px 0;
+  font-size: 10px;
+  color: #777;
+  text-align: center;
+}
