@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-kurly/static/css/main.43f53385.css",
+    "main.js": "/react-kurly/static/js/main.5269a7bc.js",
+    "static/media/slide01.jpg": "/react-kurly/static/media/slide01.d86059ea1b9500523c63.jpg",
+    "static/media/slide06.jpg": "/react-kurly/static/media/slide06.083d19ea4956f4d4ad9f.jpg",
+    "static/media/slide07.jpg": "/react-kurly/static/media/slide07.475cfc8ca8a77946f00b.jpg",
+    "static/media/slide09.jpg": "/react-kurly/static/media/slide09.6d4175f185f40ce1ac64.jpg",
+    "static/media/slide08.jpg": "/react-kurly/static/media/slide08.3e41c429b37618ffb4d0.jpg",
+    "static/media/slide02.jpg": "/react-kurly/static/media/slide02.2ef7628909221929f85d.jpg",
+    "static/media/slide10.jpg": "/react-kurly/static/media/slide10.40f3a3aed72d40b96339.jpg",
+    "static/media/slide11.jpg": "/react-kurly/static/media/slide11.b05e57f3ea7125c9d54a.jpg",
+    "static/media/slide04.jpg": "/react-kurly/static/media/slide04.86d558939dd18bb449d5.jpg",
+    "static/media/slide03.jpg": "/react-kurly/static/media/slide03.8b04334a036d46f32184.jpg",
+    "static/media/slide05.jpg": "/react-kurly/static/media/slide05.1f30dd0ad014073c5f9d.jpg",
+    "static/media/slide12.jpg": "/react-kurly/static/media/slide12.deff4fa1fbc73600c79a.jpg",
+    "static/media/cil_cart1.svg": "/react-kurly/static/media/cil_cart1.ef770188241494ee5654e8ca7ec22b30.svg",
+    "static/media/produc_arrow1.svg": "/react-kurly/static/media/produc_arrow1.511544af8604ba34e4de2d62eed0be5d.svg",
+    "static/media/mingcute_heart-line.svg": "/react-kurly/static/media/mingcute_heart-line.4e40300a0def308e75e46e8b007c2baa.svg",
+    "index.html": "/react-kurly/index.html",
+    "static/media/lucide_map-pin.svg": "/react-kurly/static/media/lucide_map-pin.d7e175ca7a23b6dccc4b72cd0a292e05.svg",
+    "static/media/mainslidearrow.svg": "/react-kurly/static/media/mainslidearrow.9f7b6b69ebc0c6e86e22aae115618ae4.svg",
+    "static/media/search.svg": "/react-kurly/static/media/search.9456ee72333d00bfd1c9a389b54cb073.svg",
+    "main.43f53385.css.map": "/react-kurly/static/css/main.43f53385.css.map",
+    "main.5269a7bc.js.map": "/react-kurly/static/js/main.5269a7bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43f53385.css",
+    "static/js/main.5269a7bc.js"
+  ]
+}
